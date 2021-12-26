@@ -1,4 +1,6 @@
-## Simulations about CIRL - Jérémie Dentan, Philippe Nugnes, Nathanaël Cuvelle--Magar
+# Cooperative Inverse Reinforcement Learning - Simulations
+
+## Jérémie Dentan, Philippe Nugnes, Nathanaël Cuvelle--Magar
 
 ### Context
 
